@@ -80,5 +80,5 @@ This analysis simulates a real-world retail reporting scenario and demonstrates 
 ## Author
 
 Built by Vibek Singha 
-For the Data Analyst Role @ Incanus Technologies
+For the Data Analyst Role 
 
